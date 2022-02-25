@@ -4,13 +4,13 @@
 
 General:
 
-Analizar los procesos que ocurren en los diferentes tipos de circuitos
+- Analizar los procesos que ocurren en los diferentes tipos de circuitos
 
 Especificos:
 
-Comprender la resonancia en los tipos de circuitos serie, paralelo, serie-paralelo, y casos especiales.
+- Comprender la resonancia en los tipos de circuitos serie, paralelo, serie-paralelo, y casos especiales.
 
-Analizar la operación de filtros
+- Analizar la operación de filtros
 
 2. MARCO TEÓRICO (RESUMEN)
 
