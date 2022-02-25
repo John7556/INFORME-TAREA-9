@@ -2,8 +2,24 @@
 
 1. OBJETIVOS
 
+General:
+
+Analizar los procesos que ocurren en los diferentes tipos de circuitos
+
+Especificos:
+
+Comprender la resonancia en los tipos de circuitos serie, paralelo, serie-paralelo, y casos especiales.
+
+Analizar la operación de filtros
 
 2. MARCO TEÓRICO (RESUMEN)
+
+![Capitulo 17 parte 1](https://user-images.githubusercontent.com/93899720/155692328-f8ed696c-4cbe-4d72-bec8-437790dcbf4c.jpg)
+
+![Capitulo 17 parte 2](https://user-images.githubusercontent.com/93899720/155692353-3569c697-e699-4313-9753-d7a3f5f93d9f.jpg)
+
+![Capitulo 18](https://user-images.githubusercontent.com/93899720/155692373-6a2ef385-578f-41f5-a38f-027d93b25af3.jpg)
+
 
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
@@ -164,4 +180,14 @@ CAPITULO 18
 
 5. CONCLUSIONES
 
+Los circuitos que tienen tanto inductancia como capacitancia exhiben la propiedad de resonancia, la cual es importante en muchos tipos de aplicaciones. La resonancia es la base de la selectividad de frecuencia en sistemas de comunicaciones.
+
+Los filtros pasivos utilizan varias combinaciones de resistores, capacitores e inductores. los filtros pasivos pueden clasificarse en cuatro categorías generales de acuerdo con sus características de respuesta: pasabajas, pasaaltas, pasabanda y rechazabanda
+
 6. BIBLIOGRAFÍA
+
+Floyd, T., 2007. Principios de circuitos eléctricos. México: Pearson.
+
+Youtube.com. 2022. [online] Available at: https://www.youtube.com/watch?v=eWq4Ui3Jq0k [Accessed 24 February 2022].
+
+Youtube.com. 2022. [online] Available at: https://www.youtube.com/watch?v=B60G3_Vj3l4 [Accessed 25 February 2022].
