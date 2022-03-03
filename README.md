@@ -230,6 +230,8 @@ CAPITULO 18
 
 4. VIDEO
 
+https://youtu.be/2UpvylRAd5w
+
 5. CONCLUSIONES
 
 Los circuitos que tienen tanto inductancia como capacitancia exhiben la propiedad de resonancia, la cual es importante en muchos tipos de aplicaciones. La resonancia es la base de la selectividad de frecuencia en sistemas de comunicaciones.
